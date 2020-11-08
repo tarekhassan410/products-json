@@ -120,11 +120,12 @@
             "brand": "Razer"
         }
     ],
-    "Brands": [{
-            "name": "Speck"
-        },
+    "Brands": [
         {
             "name": "SUPCASE"
+        },
+        {
+            "name": "Speck"
         },
         {
             "name": "OtterBox"
